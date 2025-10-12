@@ -1,15 +1,16 @@
-# 👋 Hi, I'm Erfan Radfar!  
+# 👋 Hi, I'm Erfan RADFAR!  
 
-🚀 **Mechanical Engineering Student** at **Sharif University of Technology**  
+💻 **Electronic & Computer Engineering** student at **HKUST**
+🚀 **Mechanical Engineering Graduate** from **Sharif University of Technology**  
 🔬 Researcher in **Robotics, Biomechanics, Intelligent Control, Haptics, and Deep Reinforcement Learning**  
 
 ---
 
 ## 🔧 About Me  
+- 🤖 Passionate about **machine Learning, robotics, AI-driven systems, and simulation**
+- 📜 Published in **Nature's HSSC & ICROM IEEE 2024 (Best Paper Award)**   
 - 🏆 **Gold Medalist** in the National Olympiad of Mechanical Engineering (2023-2024)  
-- 🎓 **Top-ranked student** in B.Sc. Mechanical Engineering  
-- 🤖 Passionate about **robotics, AI-driven control, and simulation**  
-- 📜 Published in **Nature's HSSC & ICROM 2024 (Best Paper Award)**  
+- 🎓 **Top-ranked graduate** in B.Sc. Mechanical Engineering  
 
 ---
 
