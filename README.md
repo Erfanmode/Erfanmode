@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Erfan RADFAR!  
 
-💻 **Electronic & Computer Engineering** student at **HKUST**
+💻 **Electronic & Computer Engineering** MPhil student at **HKUST**
 🚀 **Mechanical Engineering Graduate** from **Sharif University of Technology**  
 🔬 Researcher in **Robotics, Biomechanics, Intelligent Control, Haptics, and Deep Reinforcement Learning**  
 
