@@ -39,6 +39,7 @@
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/erfan-radfar-703912266)  
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=qGLV1IMAAAAJ)  
-📧 Email: erfanradfar200117@gmail.com  
+📧 Email: erfanradfar200117@gmail.com
+📧 Email: eradfar@connect.ust.hk
 
 🚀 **Always open to collaborations, research opportunities, and new ideas!**  
