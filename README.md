@@ -9,7 +9,7 @@
 ---
 
 ## 🔧 About Me  
-- 🤖 Passionate about **machine Learning, robotics, AI-driven systems, and simulation**
+- 🤖 Passionate about **machine Learning, intelligent systems, robotics, signal processing, and communication**
 - 📜 Published in **Nature's HSSC & ICROM IEEE 2024 (Best Paper Award)**   
 - 🏆 **Gold Medalist** in the National Olympiad of Mechanical Engineering (2023-2024)  
 - 🎓 **Top-ranked graduate** in B.Sc. Mechanical Engineering  
