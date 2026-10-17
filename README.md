@@ -4,7 +4,7 @@
 
 🚀 **Mechanical Engineering Graduate** from **Sharif University of Technology**  
 
-🔬 Researcher in **Robotics, Intelligent Control, Haptics, and Deep Reinforcement Learning**  
+🔬 Researcher in **Robotics, Intelligent Control, Representation Learning, Haptics, and Deep Reinforcement Learning**  
 
 ---
 
