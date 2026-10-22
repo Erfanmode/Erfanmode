@@ -22,7 +22,7 @@
 🔹 **Brushless DC Motor Control using Arduino**  
 🔹 **PID & Classical Controller Design for Dynamic Systems**  
 🔹 **Physics-Informed AI for Sensor Fusion & Navigation**  
-
+![objects_grasp_720p](https://github.com/user-attachments/assets/be64597a-50ea-4881-a864-04d09ae4a483)
 📂 Check out my projects: [GitHub Repositories](https://github.com/Erfanmode)  
 
 ---
