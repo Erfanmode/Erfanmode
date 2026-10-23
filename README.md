@@ -45,9 +45,9 @@
 🚀 **Always open to collaborations, research opportunities, and new ideas!**  
 
 
-## Here is some of my works :)
+## Here is some of my works 😀
 
-# Simulation of Dexterous Robotic Hand Object Grasping Control Using Reinforcement Learning (2025)
+# Simulation of Dexterous Robotic Hand Object Grasping Control Using Reinforcement Learning - Spring 2025
 The ability of robots to interact precisely with diverse objects is a fundamental challenge in robotics. Successful grasping of objects with varying
 shapes, sizes, and materials is critical for industrial and service applications, such as production lines, home assistance, and medical environments.
 In this thesis project, we explore the implementation of deep reinforcement learning (DRL) for dexterous robotic grasping using a robotic arm with a fivefingered hand. Four object types—box, sphere, cylinder, and cup—with
@@ -55,3 +55,6 @@ varying sizes were selected to evaluate the robot’s ability to handle differen
 during testing to assess the model’s generalization capability.
 
 ![objects_grasp_720p](https://github.com/user-attachments/assets/be64597a-50ea-4881-a864-04d09ae4a483)
+
+# Multirotor Design, Control & Path Planning with Obstacles Avoidance using Cascaded PID in Simulink - Summer 2024
+![{28C771C1-7978-494F-8812-9EE03B50347A}](https://github.com/user-attachments/assets/5895a567-c2c5-41f1-9123-16b7c932e572)
