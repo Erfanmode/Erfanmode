@@ -47,7 +47,8 @@ This project studies deep reinforcement learning for a robotic arm with a five-f
 
 **Grasping demonstration**
 
-https://github.com/user-attachments/assets/be64597a-50ea-4881-a864-04d09ae4a483
+
+![objects_grasp_720p](https://github.com/user-attachments/assets/be64597a-50ea-4881-a864-04d09ae4a483)
 
 ### 🚁 Multirotor design, control & obstacle-aware path planning · Summer 2024
 
