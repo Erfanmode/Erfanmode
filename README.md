@@ -22,7 +22,7 @@
   </tr>
 </table>
 
-My interests span machine learning, intelligent systems, robotics, signal processing, and communications. I enjoy building systems that connect learning algorithms with real-world robotic platforms.
+My interests span machine learning, intelligent systems, robotics, reinforcement learning, and signal processing. I enjoy building systems that connect learning algorithms with real-world robotic platforms.
 
 ## Research interests
 
