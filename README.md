@@ -47,6 +47,13 @@
 
 ## Here is some of my works 😀
 
+# 3D Generation — Point Cloud Diffusion Model - Fall 2025
+**generative modeling for 3D point clouds** using a denoising diffusion framework combined with a simplified PointNet-style architecture
+<p align="center">
+  <img src="figures/point-cloud-generation.png" alt="Point Cloud Generation" width="48%"/>
+  <img src="figures/denoising-process.png" alt="Denoising Process" width="48%"/>
+</p>
+
 # Simulation of Dexterous Robotic Hand Object Grasping Control Using Reinforcement Learning - Spring 2025
 The ability of robots to interact precisely with diverse objects is a fundamental challenge in robotics. Successful grasping of objects with varying
 shapes, sizes, and materials is critical for industrial and service applications, such as production lines, home assistance, and medical environments.
