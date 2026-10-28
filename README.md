@@ -5,7 +5,7 @@
   <p>🤖 Robotics · Intelligent Control · Representation Learning · Haptics · Deep RL</p>
   <p>
     <a href="https://github.com/Erfanmode"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?logo=github" alt="Explore my GitHub repositories"></a>
-    <a href="https://www.linkedin.com/in/erfan-radfar-703912266"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
+    <a href="https://www.linkedin.com/in/erfan-radfar"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
     <a href="https://scholar.google.com/citations?hl=en&user=qGLV1IMAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?logo=google-scholar&logoColor=white" alt="Google Scholar publications"></a>
   </p>
 </div>
