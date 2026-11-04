@@ -2,7 +2,8 @@
   <h1>👋 Hi, I'm Erfan Radfar</h1>
   <p><strong>MPhil student in Electronic & Computer Engineering at HKUST</strong></p>
   <p>Mechanical Engineering graduate from Sharif University of Technology</p>
-  <p>🤖 Robotics · Intelligent Control · Representation Learning · Haptics · Deep RL</p>
+  <p>🤖 Reinforcement Learning (Credit Assignment, World Models, Causal RL), Self-Supervised & Representation Learning,
+Robot Learning, Intelligent Control.</p>
   <p>
     <a href="https://github.com/Erfanmode"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?logo=github" alt="Explore my GitHub repositories"></a>
     <a href="https://www.linkedin.com/in/erfan-radfar"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
