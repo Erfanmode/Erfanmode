@@ -5,6 +5,7 @@
   <p>🤖 Reinforcement Learning (Credit Assignment, World Models, Causal RL), Self-Supervised & Representation Learning,
 Robot Learning, Intelligent Control.</p>
   <p>
+    <a href="https://github.com/Erfanmode/Erfanmode/blob/main/Erfan_Radfar_Academic_CV.pdf"><img src="https://img.shields.io/badge/Academic%20CV-Download%20PDF-E53935?logo=adobeacrobatreader&logoColor=white" alt="View Academic CV"></a>
     <a href="https://github.com/Erfanmode"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?logo=github" alt="Explore my GitHub repositories"></a>
     <a href="https://www.linkedin.com/in/erfan-radfar"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
     <a href="https://scholar.google.com/citations?hl=en&user=qGLV1IMAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?logo=google-scholar&logoColor=white" alt="Google Scholar publications"></a>
