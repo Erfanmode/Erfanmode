@@ -43,7 +43,7 @@ A denoising diffusion model for 3D point clouds, paired with a simplified PointN
   </tr>
 </table>
 
-### ✋ < href="https://github.com/Erfanmode/dex-hand-grasp"> <Dexterous robotic grasping with reinforcement learning · Spring 2025></a>
+### ✋ <a href="https://github.com/Erfanmode/dex-hand-grasp"> <Dexterous robotic grasping with reinforcement learning · Spring 2025></a>
 
 This project studies deep reinforcement learning for a robotic arm with a five-fingered hand. The policy was evaluated on boxes, spheres, cylinders, and cups in different sizes, then tested on eight unseen objects to assess generalization.
 
