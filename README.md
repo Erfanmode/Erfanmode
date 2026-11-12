@@ -43,7 +43,7 @@ A denoising diffusion model for 3D point clouds, paired with a simplified PointN
   </tr>
 </table>
 
-### ✋ <a href="https://github.com/Erfanmode/dex-hand-grasp"Dexterous robotic grasping with reinforcement learning · Spring 2025></a>
+### ✋ <a href="https://github.com/Erfanmode/dex-hand-grasp">Dexterous robotic grasping with reinforcement learning · Spring 2025></a>
 
 This project studies deep reinforcement learning for a robotic arm with a five-fingered hand. The policy was evaluated on boxes, spheres, cylinders, and cups in different sizes, then tested on eight unseen objects to assess generalization.
 
@@ -52,7 +52,7 @@ This project studies deep reinforcement learning for a robotic arm with a five-f
 
 ![objects_grasp_720p](https://github.com/user-attachments/assets/be64597a-50ea-4881-a864-04d09ae4a483)
 
-### 🚁 <a href="https://github.com/Erfanmode/Multirotor-Design-Control-Path-Planning-using-Cascaded-PID-in-Simulink" Multirotor design, control & obstacle-aware path planning · Summer 2024
+### 🚁 <a href="https://github.com/Erfanmode/Multirotor-Design-Control-Path-Planning-using-Cascaded-PID-in-Simulink">Multirotor design, control & obstacle-aware path planning · Summer 2024
 ></a>
 Cascaded PID control and path planning for a multirotor in Simulink.
 
